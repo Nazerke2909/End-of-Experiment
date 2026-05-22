@@ -1,5 +1,4 @@
 package com.mygame.controller;
-
 import com.mygame.model.Hero;
 import com.mygame.model.PlayerProgress;
 

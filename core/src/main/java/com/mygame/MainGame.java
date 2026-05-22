@@ -1,5 +1,4 @@
 package com.mygame;
-
 import com.badlogic.gdx.Game;
 import com.mygame.view.FirstScreen;
 
